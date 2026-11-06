@@ -1,5 +1,16 @@
 # vinext
 
+## 1.4.5
+
+### Bug Fixes
+
+- **Init:** stop adding nodejs_compat now that compat dates enable it (#4580)
+- **Nitro:** wait for server dep optimization before Nitro dev imports entries (#4577)
+
+### Contributors
+
+- @james-elicx
+
 ## 1.4.4
 
 ### Bug Fixes
